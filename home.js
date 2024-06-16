@@ -147,14 +147,14 @@ let body = {
         "toast" : "",
         "type" : "fans",
         "name" : "Followers",
-        "count" : 0
+        "count" : 99999
       },
       {
         "is_private" : false,
         "toast" : "",
         "type" : "interaction",
         "name" : "Likes & Collects",
-        "count" : 0
+        "count" : 10w
       }
     ],
     "gender" : 2,
