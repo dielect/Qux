@@ -48,7 +48,7 @@ let body = {
     "easemob_password" : "9cfc45499869dd4b5624db88f77188a5",
     "share_info" : {
       "title" : "小红书官方助手",
-      "content" : "Click here to fill in the profile",
+      "content" : "测试1",
       "avatar" : "https://sns-avatar-qc.xhscdn.com/avatar/645b7f3c86578b8c6ab3b068.jpg?imageView2/2/w/540/format/webp"
     },
     "identity_deeplink" : "xhsdiscover://rn/app-settings/official/certification/details?type=1&user_id=6639f10a000000000b0304fd&is_mcn=false",
@@ -72,7 +72,7 @@ let body = {
     },
     "type" : "phone",
     "location_jump" : false,
-    "desc" : "Click here to fill in the profile",
+    "desc" : "测试2",
     "location" : "完善你的位置信息",
     "skin_qa_url" : "https://www.xiaohongshu.com/activity/skin_selection",
     "is_birthday" : false,
