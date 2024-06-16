@@ -133,7 +133,7 @@ let body = {
     "desc_at_users" : [
 
     ],
-    "nickname" : "测试123",
+    "nickname" : "小红书官方助手",
     "interactions" : [
       {
         "is_private" : false,
@@ -147,14 +147,14 @@ let body = {
         "toast" : "",
         "type" : "fans",
         "name" : "Followers",
-        "count" : 100
+        "count" : 170000
       },
       {
         "is_private" : false,
         "toast" : "",
         "type" : "interaction",
         "name" : "Likes & Collects",
-        "count" : 100
+        "count" : 35622
       }
     ],
     "gender" : 2,
