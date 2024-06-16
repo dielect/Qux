@@ -47,7 +47,7 @@ let body = {
     },
     "easemob_password" : "9cfc45499869dd4b5624db88f77188a5",
     "share_info" : {
-      "title" : "小红书官方助手",
+      "title" : "小红书官方助手2",
       "content" : "测试1",
       "avatar" : "https://sns-avatar-qc.xhscdn.com/avatar/645b7f3c86578b8c6ab3b068.jpg?imageView2/2/w/540/format/webp"
     },
