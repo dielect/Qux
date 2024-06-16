@@ -133,7 +133,7 @@ let body = {
     "desc_at_users" : [
 
     ],
-    "nickname" : "小红薯663A5E56",
+    "nickname" : "测试123",
     "interactions" : [
       {
         "is_private" : false,
