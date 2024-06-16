@@ -111,9 +111,9 @@ let body = {
     "register_time" : "1715073291",
     "red_official_verified" : false,
     "note_num_stat" : {
-      "liked" : 9999,
+      "liked" : 100,
       "posted" : 0,
-      "collected" : 9999
+      "collected" : 100
     },
     "collected_book_num" : 0,
     "need_verify_id" : false,
@@ -147,14 +147,14 @@ let body = {
         "toast" : "",
         "type" : "fans",
         "name" : "Followers",
-        "count" : 99999
+        "count" : 100
       },
       {
         "is_private" : false,
         "toast" : "",
         "type" : "interaction",
         "name" : "Likes & Collects",
-        "count" : 10w
+        "count" : 100
       }
     ],
     "gender" : 2,
