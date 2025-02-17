@@ -4,6 +4,7 @@ let obj = JSON.parse($response.body);
 // 修改 nickName 字段
 if (obj.data) {
     obj.data.nickName = "测试";
+    obj.data.thirdNickName = "测试2";
 }
 
 $done({
