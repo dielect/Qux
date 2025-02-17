@@ -6,5 +6,10 @@ if (obj.data) {
     obj.data.nickName = "测试";
 }
 
-// 将修改后的对象转回字符串
-$done({body: JSON.stringify(obj)});
+$done({
+  status: 200,
+  headers: {
+    'Content-Type': 'application/json'
+  },
+  body: JSON.stringify(obj)
+});
